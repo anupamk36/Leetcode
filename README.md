@@ -16,4 +16,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/anupamk36/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anupamk36/Leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/anupamk36/Leetcode/tree/master/0610-triangle-judgement) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/anupamk36/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/anupamk36/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/anupamk36/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
