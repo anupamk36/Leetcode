@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anupamk36/Leetcode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/anupamk36/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/anupamk36/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/anupamk36/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anupamk36/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/anupamk36/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
