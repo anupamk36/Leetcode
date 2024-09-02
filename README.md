@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/anupamk36/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anupamk36/Leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/anupamk36/Leetcode/tree/master/0610-triangle-judgement) |
+| [1827-invalid-tweets](https://github.com/anupamk36/Leetcode/tree/master/1827-invalid-tweets) |
 | [1942-primary-department-for-each-employee](https://github.com/anupamk36/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 ## Hash Table
 |  |
